@@ -1,6 +1,5 @@
 # Projet-Velib-Londres
-What are we ?
---A project to **analyze a data set** and **build a regression model**.
+We are A project to **analyze a data set** and **build a regression model**.
 
 The approach will therefore be as follows:
 1. descriptive analysis of the dataset: size of the dataset, type of variables available, missing/aberrant observations, etc.
